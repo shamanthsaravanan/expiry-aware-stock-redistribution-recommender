@@ -1,0 +1,501 @@
+medicine_name,batch_id,current_location,quantity,unit_value,expiry_date,days_to_expiry,local_daily_demand
+PainRelief-X (Synthetic),BTH-2954,Ward A,163,5.0,2026-10-26,47,2.11
+PainRelief-X (Synthetic),BTH-1212,Outpatients,264,5.0,2026-09-13,4,71.84
+ImmunoBoost-Alpha,BTH-9906,Ward C,32,85.0,2026-09-13,4,3.91
+CardioSynth,BTH-3641,Operating Room 2,480,45.0,2027-06-17,281,5.31
+ImmunoBoost-Alpha,BTH-6479,Operating Room 1,417,85.0,2026-09-10,1,2.42
+SynthOxy,BTH-2053,Ward A,391,15.5,2027-06-06,270,9.54
+CardioSynth,BTH-3609,Main Pharmacy,97,45.0,2026-10-17,38,1.92
+SynthOxy,BTH-8092,Ward B,178,15.5,2026-10-25,46,3.27
+SynthOxy,BTH-7440,Outpatients,108,15.5,2027-06-15,279,30.71
+CardioSynth,BTH-7445,Main Pharmacy,46,45.0,2026-10-16,37,4.93
+CardioSynth,BTH-1917,Ward A,316,45.0,2026-09-19,10,2.07
+ImmunoBoost-Alpha,BTH-4112,Operating Room 2,34,85.0,2026-10-09,30,3.0
+PainRelief-X (Synthetic),BTH-1465,Ward C,14,5.0,2026-09-24,15,4.88
+NeuroBlock-Z,BTH-9762,Operating Room 1,283,120.0,2026-09-22,13,12.46
+ImmunoBoost-Alpha,BTH-3249,Operating Room 2,327,85.0,2026-10-20,41,9.62
+NeuroBlock-Z,BTH-6552,Operating Room 1,166,120.0,2026-10-11,32,15.75
+CardioSynth,BTH-6240,Ward C,383,45.0,2027-01-31,144,2.58
+ImmunoBoost-Alpha,BTH-8484,Operating Room 2,467,85.0,2026-10-19,40,6.66
+CardioSynth,BTH-3673,Ward B,477,45.0,2026-10-23,44,7.44
+CardioSynth,BTH-9579,Ward B,13,45.0,2026-09-28,19,2.24
+NeuroBlock-Z,BTH-8205,Ward B,39,120.0,2026-11-01,53,3.04
+NeuroBlock-Z,BTH-5565,Ward A,187,120.0,2026-09-23,14,7.68
+CardioSynth,BTH-2697,Main Pharmacy,223,45.0,2027-05-12,245,5.52
+SynthOxy,BTH-6235,Operating Room 1,430,15.5,2026-10-05,26,6.87
+PainRelief-X (Synthetic),BTH-1169,Outpatients,144,5.0,2027-08-01,326,94.47
+NeuroBlock-Z,BTH-6126,Main Pharmacy,287,120.0,2027-04-12,215,1.78
+ImmunoBoost-Alpha,BTH-7239,Operating Room 1,193,85.0,2026-10-30,51,3.75
+PainRelief-X (Synthetic),BTH-1456,Operating Room 2,256,5.0,2026-12-08,90,4.97
+CardioSynth,BTH-4781,Outpatients,234,45.0,2026-10-13,34,2.67
+ImmunoBoost-Alpha,BTH-1318,Outpatients,20,85.0,2026-11-06,58,8.06
+SynthOxy,BTH-9853,Outpatients,65,15.5,2026-10-04,25,39.51
+NeuroBlock-Z,BTH-9318,Main Pharmacy,21,120.0,2027-06-15,279,8.48
+CardioSynth,BTH-5183,Ward A,292,45.0,2026-10-16,37,9.27
+SynthOxy,BTH-1363,Ward C,137,15.5,2026-10-08,29,5.98
+NeuroBlock-Z,BTH-7871,Outpatients,329,120.0,2026-09-17,8,6.72
+NeuroBlock-Z,BTH-3198,Operating Room 1,30,120.0,2026-11-05,57,10.4
+SynthOxy,BTH-1449,Ward A,119,15.5,2026-10-06,27,5.58
+SynthOxy,BTH-6864,Operating Room 1,60,15.5,2026-10-13,34,9.94
+ImmunoBoost-Alpha,BTH-4159,Operating Room 2,83,85.0,2026-09-15,6,3.81
+CardioSynth,BTH-2601,Main Pharmacy,295,45.0,2026-09-14,5,0.03
+SynthOxy,BTH-3631,Operating Room 2,108,15.5,2026-10-09,30,5.55
+CardioSynth,BTH-1161,Main Pharmacy,256,45.0,2026-10-24,45,3.36
+NeuroBlock-Z,BTH-8091,Ward B,222,120.0,2026-09-11,2,2.56
+SynthOxy,BTH-7644,Outpatients,436,15.5,2026-09-17,8,97.95
+SynthOxy,BTH-5074,Ward A,101,15.5,2026-10-23,44,6.75
+ImmunoBoost-Alpha,BTH-2489,Ward A,58,85.0,2026-09-16,7,2.3
+NeuroBlock-Z,BTH-6029,Main Pharmacy,159,120.0,2026-10-06,27,2.92
+SynthOxy,BTH-4568,Ward B,347,15.5,2026-10-19,40,2.2
+NeuroBlock-Z,BTH-8253,Outpatients,378,120.0,2026-10-12,33,8.61
+PainRelief-X (Synthetic),BTH-5109,Operating Room 2,70,5.0,2027-02-19,163,9.78
+CardioSynth,BTH-3989,Outpatients,239,45.0,2026-10-09,30,4.66
+PainRelief-X (Synthetic),BTH-6545,Ward B,185,5.0,2026-09-12,3,8.45
+PainRelief-X (Synthetic),BTH-4833,Ward B,382,5.0,2026-12-07,89,2.89
+ImmunoBoost-Alpha,BTH-5592,Ward C,333,85.0,2026-11-05,57,8.35
+NeuroBlock-Z,BTH-1124,Outpatients,193,120.0,2026-10-18,39,5.66
+NeuroBlock-Z,BTH-2273,Outpatients,400,120.0,2026-09-11,2,9.4
+NeuroBlock-Z,BTH-2871,Operating Room 1,330,120.0,2026-10-20,41,15.33
+PainRelief-X (Synthetic),BTH-6159,Ward B,272,5.0,2026-10-05,26,4.07
+NeuroBlock-Z,BTH-9208,Main Pharmacy,351,120.0,2027-02-25,169,9.32
+NeuroBlock-Z,BTH-4198,Ward A,372,120.0,2026-11-02,54,6.83
+CardioSynth,BTH-5526,Ward C,201,45.0,2026-09-22,13,5.53
+NeuroBlock-Z,BTH-4674,Main Pharmacy,318,120.0,2027-03-16,188,5.45
+ImmunoBoost-Alpha,BTH-7395,Outpatients,331,85.0,2026-10-16,37,9.16
+SynthOxy,BTH-1753,Main Pharmacy,193,15.5,2026-09-29,20,1.89
+NeuroBlock-Z,BTH-6634,Ward B,283,120.0,2027-07-25,319,5.56
+ImmunoBoost-Alpha,BTH-9526,Ward C,376,85.0,2026-10-18,39,3.71
+PainRelief-X (Synthetic),BTH-2188,Ward A,319,5.0,2026-09-19,10,5.81
+CardioSynth,BTH-6466,Operating Room 1,167,45.0,2026-10-11,32,5.93
+ImmunoBoost-Alpha,BTH-8730,Outpatients,389,85.0,2026-10-05,26,0.32
+NeuroBlock-Z,BTH-3929,Ward B,196,120.0,2026-10-19,40,2.1
+ImmunoBoost-Alpha,BTH-4071,Outpatients,254,85.0,2026-10-05,26,5.87
+CardioSynth,BTH-1675,Outpatients,417,45.0,2026-11-25,77,2.64
+ImmunoBoost-Alpha,BTH-1096,Ward C,117,85.0,2026-11-05,57,6.31
+PainRelief-X (Synthetic),BTH-2911,Main Pharmacy,92,5.0,2026-09-13,4,9.21
+CardioSynth,BTH-6138,Operating Room 1,152,45.0,2026-11-06,58,7.94
+PainRelief-X (Synthetic),BTH-5170,Outpatients,183,5.0,2026-09-12,3,48.7
+NeuroBlock-Z,BTH-3880,Ward C,58,120.0,2026-09-12,3,5.01
+ImmunoBoost-Alpha,BTH-5904,Outpatients,133,85.0,2026-09-10,1,9.2
+PainRelief-X (Synthetic),BTH-8706,Ward A,499,5.0,2027-05-09,242,8.58
+PainRelief-X (Synthetic),BTH-4327,Outpatients,19,5.0,2026-09-11,2,67.63
+CardioSynth,BTH-2270,Operating Room 1,465,45.0,2027-03-17,189,10.41
+PainRelief-X (Synthetic),BTH-9276,Ward A,102,5.0,2027-07-22,316,1.0
+ImmunoBoost-Alpha,BTH-7579,Main Pharmacy,469,85.0,2026-09-14,5,5.89
+CardioSynth,BTH-8934,Operating Room 1,402,45.0,2026-10-03,24,6.47
+CardioSynth,BTH-7924,Main Pharmacy,223,45.0,2026-10-13,34,1.27
+PainRelief-X (Synthetic),BTH-2051,Operating Room 2,116,5.0,2026-11-01,53,3.09
+ImmunoBoost-Alpha,BTH-2273,Operating Room 1,172,85.0,2026-09-19,10,7.9
+PainRelief-X (Synthetic),BTH-7995,Operating Room 2,155,5.0,2026-09-15,6,6.16
+NeuroBlock-Z,BTH-6773,Ward A,117,120.0,2027-07-17,311,3.06
+PainRelief-X (Synthetic),BTH-1102,Ward B,468,5.0,2026-09-27,18,9.04
+ImmunoBoost-Alpha,BTH-4717,Ward A,390,85.0,2026-10-18,39,8.57
+CardioSynth,BTH-3478,Operating Room 1,304,45.0,2026-11-03,55,15.03
+CardioSynth,BTH-5607,Ward B,28,45.0,2026-09-17,8,1.99
+NeuroBlock-Z,BTH-5552,Operating Room 1,242,120.0,2027-01-23,136,17.44
+SynthOxy,BTH-6901,Ward A,96,15.5,2026-11-08,60,1.45
+SynthOxy,BTH-6572,Outpatients,338,15.5,2026-10-31,52,50.35
+PainRelief-X (Synthetic),BTH-6253,Operating Room 1,58,5.0,2026-10-02,23,5.64
+CardioSynth,BTH-4164,Operating Room 2,192,45.0,2026-10-15,36,17.4
+NeuroBlock-Z,BTH-3566,Operating Room 2,176,120.0,2026-09-11,2,7.92
+NeuroBlock-Z,BTH-2584,Outpatients,195,120.0,2026-10-30,51,9.06
+CardioSynth,BTH-8607,Ward B,219,45.0,2027-04-01,204,1.89
+NeuroBlock-Z,BTH-1166,Operating Room 1,46,120.0,2026-09-26,17,16.49
+ImmunoBoost-Alpha,BTH-4777,Main Pharmacy,224,85.0,2026-12-15,97,9.67
+NeuroBlock-Z,BTH-2852,Ward B,162,120.0,2026-10-23,44,6.71
+ImmunoBoost-Alpha,BTH-2660,Operating Room 1,336,85.0,2026-12-06,88,5.19
+PainRelief-X (Synthetic),BTH-1469,Outpatients,314,5.0,2026-10-15,36,88.48
+CardioSynth,BTH-1522,Operating Room 1,206,45.0,2026-10-25,46,16.56
+SynthOxy,BTH-6551,Operating Room 2,470,15.5,2027-07-15,309,1.25
+ImmunoBoost-Alpha,BTH-2820,Ward A,24,85.0,2026-10-12,33,3.22
+SynthOxy,BTH-2538,Main Pharmacy,261,15.5,2027-05-09,242,7.72
+PainRelief-X (Synthetic),BTH-6249,Operating Room 2,107,5.0,2026-09-21,12,6.82
+CardioSynth,BTH-7637,Main Pharmacy,274,45.0,2026-12-14,96,7.45
+ImmunoBoost-Alpha,BTH-5939,Operating Room 1,249,85.0,2027-02-03,147,2.65
+PainRelief-X (Synthetic),BTH-4349,Operating Room 1,102,5.0,2026-09-17,8,7.28
+SynthOxy,BTH-2799,Operating Room 2,480,15.5,2026-10-19,40,0.61
+PainRelief-X (Synthetic),BTH-7793,Ward B,110,5.0,2026-10-19,40,4.75
+SynthOxy,BTH-4390,Main Pharmacy,236,15.5,2027-07-11,305,4.64
+SynthOxy,BTH-8194,Outpatients,314,15.5,2027-01-06,119,47.45
+NeuroBlock-Z,BTH-6817,Ward C,117,120.0,2026-10-01,22,7.71
+PainRelief-X (Synthetic),BTH-3551,Ward B,106,5.0,2026-10-28,49,3.64
+CardioSynth,BTH-8873,Ward A,357,45.0,2026-10-21,42,8.65
+ImmunoBoost-Alpha,BTH-8795,Main Pharmacy,496,85.0,2026-09-12,3,0.31
+ImmunoBoost-Alpha,BTH-3605,Ward A,97,85.0,2026-10-17,38,4.32
+SynthOxy,BTH-8452,Ward A,229,15.5,2026-10-27,48,3.34
+SynthOxy,BTH-3017,Ward B,296,15.5,2026-09-12,3,7.75
+SynthOxy,BTH-2841,Main Pharmacy,231,15.5,2026-09-13,4,6.61
+CardioSynth,BTH-3564,Ward C,174,45.0,2026-11-06,58,6.67
+NeuroBlock-Z,BTH-9137,Outpatients,105,120.0,2026-10-09,30,6.17
+CardioSynth,BTH-7474,Main Pharmacy,381,45.0,2026-10-17,38,8.99
+CardioSynth,BTH-9031,Operating Room 2,361,45.0,2026-09-12,3,17.77
+CardioSynth,BTH-4918,Operating Room 2,116,45.0,2026-10-06,27,16.29
+PainRelief-X (Synthetic),BTH-8116,Operating Room 1,182,5.0,2026-09-30,21,1.62
+CardioSynth,BTH-4363,Ward B,248,45.0,2026-09-15,6,3.74
+CardioSynth,BTH-4098,Ward A,34,45.0,2027-08-28,353,2.9
+SynthOxy,BTH-2229,Operating Room 1,401,15.5,2026-09-19,10,3.47
+NeuroBlock-Z,BTH-5076,Outpatients,221,120.0,2027-01-29,142,4.7
+ImmunoBoost-Alpha,BTH-2909,Operating Room 1,116,85.0,2027-01-11,124,1.29
+NeuroBlock-Z,BTH-9571,Operating Room 2,186,120.0,2026-10-20,41,5.83
+ImmunoBoost-Alpha,BTH-2461,Operating Room 1,164,85.0,2026-09-30,21,3.92
+ImmunoBoost-Alpha,BTH-8126,Ward A,38,85.0,2026-09-26,17,2.25
+ImmunoBoost-Alpha,BTH-4260,Outpatients,94,85.0,2026-09-11,2,9.32
+NeuroBlock-Z,BTH-2938,Ward A,336,120.0,2026-09-30,21,9.91
+SynthOxy,BTH-9618,Outpatients,239,15.5,2027-08-31,356,27.17
+SynthOxy,BTH-9379,Ward B,456,15.5,2026-10-27,48,1.59
+SynthOxy,BTH-9154,Main Pharmacy,462,15.5,2026-10-25,46,7.12
+SynthOxy,BTH-7695,Operating Room 2,228,15.5,2026-10-10,31,8.53
+PainRelief-X (Synthetic),BTH-8694,Ward B,89,5.0,2027-02-17,161,6.08
+SynthOxy,BTH-4072,Ward B,314,15.5,2026-10-18,39,7.58
+ImmunoBoost-Alpha,BTH-3934,Outpatients,385,85.0,2026-12-14,96,1.6
+SynthOxy,BTH-2957,Main Pharmacy,362,15.5,2026-10-21,42,7.89
+ImmunoBoost-Alpha,BTH-5288,Ward A,66,85.0,2026-09-17,8,2.43
+CardioSynth,BTH-5210,Main Pharmacy,456,45.0,2026-09-29,20,0.15
+PainRelief-X (Synthetic),BTH-1479,Operating Room 2,469,5.0,2026-09-29,20,2.59
+CardioSynth,BTH-2700,Operating Room 1,147,45.0,2026-09-11,2,17.68
+CardioSynth,BTH-1545,Ward A,199,45.0,2026-09-24,15,5.21
+SynthOxy,BTH-7567,Main Pharmacy,342,15.5,2026-09-27,18,5.94
+CardioSynth,BTH-1012,Operating Room 1,245,45.0,2026-10-21,42,10.6
+ImmunoBoost-Alpha,BTH-7508,Ward C,328,85.0,2026-10-14,35,6.51
+ImmunoBoost-Alpha,BTH-4583,Outpatients,478,85.0,2026-11-26,78,6.59
+CardioSynth,BTH-3123,Outpatients,307,45.0,2026-11-02,54,8.72
+PainRelief-X (Synthetic),BTH-6851,Operating Room 1,478,5.0,2026-11-07,59,7.36
+SynthOxy,BTH-2066,Ward B,252,15.5,2026-10-15,36,9.38
+NeuroBlock-Z,BTH-9177,Ward A,173,120.0,2026-10-28,49,5.3
+SynthOxy,BTH-8340,Operating Room 1,259,15.5,2026-10-26,47,6.45
+ImmunoBoost-Alpha,BTH-3264,Operating Room 2,216,85.0,2026-10-21,42,8.45
+NeuroBlock-Z,BTH-8584,Ward C,323,120.0,2026-11-08,60,1.8
+CardioSynth,BTH-5379,Ward A,28,45.0,2026-10-11,32,5.36
+NeuroBlock-Z,BTH-2718,Ward C,53,120.0,2026-09-26,17,2.92
+PainRelief-X (Synthetic),BTH-9069,Ward B,350,5.0,2027-08-19,344,4.11
+NeuroBlock-Z,BTH-4576,Ward C,300,120.0,2026-10-30,51,2.75
+NeuroBlock-Z,BTH-2236,Ward A,476,120.0,2026-09-17,8,9.34
+CardioSynth,BTH-9291,Operating Room 1,271,45.0,2027-04-12,215,14.52
+PainRelief-X (Synthetic),BTH-2587,Outpatients,225,5.0,2027-04-15,218,98.48
+CardioSynth,BTH-3880,Main Pharmacy,111,45.0,2026-10-28,49,1.82
+NeuroBlock-Z,BTH-3054,Ward A,45,120.0,2027-08-06,331,4.52
+SynthOxy,BTH-8207,Ward B,448,15.5,2026-09-29,20,4.42
+CardioSynth,BTH-9297,Ward C,374,45.0,2026-11-03,55,0.95
+CardioSynth,BTH-1122,Operating Room 2,404,45.0,2026-09-14,5,19.44
+CardioSynth,BTH-7155,Ward B,488,45.0,2026-10-11,32,5.59
+SynthOxy,BTH-8470,Ward B,384,15.5,2026-09-16,7,6.79
+ImmunoBoost-Alpha,BTH-1658,Operating Room 1,121,85.0,2026-10-04,25,5.25
+CardioSynth,BTH-1955,Ward A,362,45.0,2026-10-07,28,4.42
+PainRelief-X (Synthetic),BTH-7980,Operating Room 1,384,5.0,2027-02-01,145,5.1
+SynthOxy,BTH-3844,Operating Room 1,171,15.5,2026-09-23,14,7.3
+SynthOxy,BTH-4169,Main Pharmacy,73,15.5,2026-09-28,19,4.66
+CardioSynth,BTH-5022,Ward A,166,45.0,2026-11-04,56,5.46
+ImmunoBoost-Alpha,BTH-1646,Operating Room 2,271,85.0,2026-10-06,27,9.4
+SynthOxy,BTH-6523,Operating Room 1,487,15.5,2027-02-13,157,7.63
+ImmunoBoost-Alpha,BTH-1306,Outpatients,114,85.0,2026-10-29,50,6.41
+ImmunoBoost-Alpha,BTH-3404,Operating Room 1,39,85.0,2026-09-23,14,4.46
+NeuroBlock-Z,BTH-1403,Ward C,32,120.0,2026-09-30,21,7.53
+SynthOxy,BTH-9552,Ward B,230,15.5,2026-11-29,81,7.82
+NeuroBlock-Z,BTH-1878,Operating Room 1,32,120.0,2026-10-26,47,19.49
+NeuroBlock-Z,BTH-9749,Operating Room 1,191,120.0,2026-09-20,11,14.75
+SynthOxy,BTH-6643,Ward C,433,15.5,2026-11-07,59,2.5
+CardioSynth,BTH-4919,Outpatients,355,45.0,2026-09-10,1,9.21
+SynthOxy,BTH-4342,Ward A,314,15.5,2026-10-28,49,8.27
+CardioSynth,BTH-9787,Operating Room 2,355,45.0,2026-09-30,21,15.72
+CardioSynth,BTH-3639,Operating Room 1,328,45.0,2027-08-23,348,14.07
+ImmunoBoost-Alpha,BTH-7039,Operating Room 2,277,85.0,2027-03-13,185,2.52
+NeuroBlock-Z,BTH-9839,Main Pharmacy,180,120.0,2026-10-31,52,0.97
+SynthOxy,BTH-6887,Operating Room 2,296,15.5,2026-09-23,14,0.99
+CardioSynth,BTH-8849,Ward C,499,45.0,2026-09-15,6,0.02
+PainRelief-X (Synthetic),BTH-1521,Ward A,213,5.0,2026-09-10,1,4.06
+CardioSynth,BTH-3329,Ward C,87,45.0,2026-10-03,24,6.45
+CardioSynth,BTH-1468,Ward C,156,45.0,2026-10-21,42,1.37
+SynthOxy,BTH-7922,Ward C,352,15.5,2027-02-11,155,4.33
+CardioSynth,BTH-6973,Operating Room 1,10,45.0,2026-09-30,21,11.96
+SynthOxy,BTH-1653,Ward B,249,15.5,2026-10-04,25,5.49
+PainRelief-X (Synthetic),BTH-9015,Main Pharmacy,172,5.0,2027-06-12,276,1.44
+NeuroBlock-Z,BTH-6826,Ward C,395,120.0,2026-10-19,40,7.83
+NeuroBlock-Z,BTH-7800,Outpatients,121,120.0,2026-10-13,34,0.03
+PainRelief-X (Synthetic),BTH-8384,Ward A,465,5.0,2026-09-19,10,3.72
+CardioSynth,BTH-8691,Main Pharmacy,202,45.0,2026-10-14,35,1.77
+ImmunoBoost-Alpha,BTH-6709,Ward C,215,85.0,2026-09-19,10,4.09
+SynthOxy,BTH-8868,Operating Room 1,165,15.5,2026-09-11,2,5.68
+NeuroBlock-Z,BTH-7384,Outpatients,410,120.0,2026-09-30,21,4.05
+SynthOxy,BTH-3339,Ward B,85,15.5,2026-10-14,35,1.16
+NeuroBlock-Z,BTH-1511,Operating Room 2,170,120.0,2027-02-01,145,11.57
+PainRelief-X (Synthetic),BTH-8864,Operating Room 1,204,5.0,2026-10-13,34,1.63
+CardioSynth,BTH-6050,Operating Room 1,95,45.0,2026-11-06,58,9.07
+SynthOxy,BTH-7155,Main Pharmacy,204,15.5,2026-09-11,2,0.49
+CardioSynth,BTH-3506,Ward B,29,45.0,2026-10-02,23,5.44
+CardioSynth,BTH-4388,Operating Room 2,51,45.0,2026-09-20,11,14.37
+NeuroBlock-Z,BTH-1551,Ward A,107,120.0,2026-09-16,7,9.55
+ImmunoBoost-Alpha,BTH-9568,Ward C,310,85.0,2026-10-30,51,3.28
+SynthOxy,BTH-1049,Ward C,280,15.5,2027-04-11,214,2.75
+ImmunoBoost-Alpha,BTH-1372,Ward A,434,85.0,2026-10-24,45,7.06
+ImmunoBoost-Alpha,BTH-6872,Main Pharmacy,440,85.0,2026-10-20,41,3.81
+NeuroBlock-Z,BTH-3037,Main Pharmacy,466,120.0,2026-10-31,52,7.35
+PainRelief-X (Synthetic),BTH-8696,Outpatients,188,5.0,2026-11-04,56,42.92
+PainRelief-X (Synthetic),BTH-3484,Main Pharmacy,430,5.0,2026-10-28,49,7.75
+CardioSynth,BTH-1359,Main Pharmacy,213,45.0,2027-03-29,201,0.76
+NeuroBlock-Z,BTH-3757,Ward C,456,120.0,2026-09-18,9,9.68
+SynthOxy,BTH-7895,Main Pharmacy,292,15.5,2026-10-05,26,3.04
+ImmunoBoost-Alpha,BTH-7236,Operating Room 2,254,85.0,2026-12-19,101,2.92
+ImmunoBoost-Alpha,BTH-6967,Main Pharmacy,254,85.0,2027-03-13,185,1.59
+CardioSynth,BTH-9858,Operating Room 2,423,45.0,2026-11-16,68,8.22
+ImmunoBoost-Alpha,BTH-8836,Main Pharmacy,309,85.0,2026-09-23,14,9.72
+PainRelief-X (Synthetic),BTH-2046,Operating Room 1,39,5.0,2026-11-05,57,2.73
+SynthOxy,BTH-6553,Operating Room 1,31,15.5,2026-09-30,21,6.51
+CardioSynth,BTH-7018,Ward B,87,45.0,2027-03-09,181,1.35
+ImmunoBoost-Alpha,BTH-9335,Ward B,368,85.0,2026-10-19,40,2.51
+ImmunoBoost-Alpha,BTH-9802,Operating Room 2,342,85.0,2026-10-06,27,1.68
+CardioSynth,BTH-8114,Outpatients,27,45.0,2026-10-26,47,3.43
+NeuroBlock-Z,BTH-1118,Operating Room 1,387,120.0,2026-10-26,47,5.96
+SynthOxy,BTH-5138,Operating Room 2,14,15.5,2026-11-08,60,1.5
+PainRelief-X (Synthetic),BTH-6264,Ward A,130,5.0,2026-09-25,16,0.36
+SynthOxy,BTH-9018,Operating Room 2,460,15.5,2026-09-19,10,5.84
+ImmunoBoost-Alpha,BTH-5788,Ward A,210,85.0,2026-11-02,54,2.26
+PainRelief-X (Synthetic),BTH-8894,Ward A,154,5.0,2027-06-30,294,7.05
+ImmunoBoost-Alpha,BTH-1248,Ward B,424,85.0,2027-04-16,219,3.32
+NeuroBlock-Z,BTH-3768,Ward C,175,120.0,2027-06-20,284,0.98
+NeuroBlock-Z,BTH-9601,Ward B,302,120.0,2026-12-07,89,5.54
+ImmunoBoost-Alpha,BTH-5526,Ward A,303,85.0,2026-09-25,16,6.9
+PainRelief-X (Synthetic),BTH-8827,Ward C,230,5.0,2026-10-30,51,8.82
+ImmunoBoost-Alpha,BTH-8743,Main Pharmacy,341,85.0,2026-10-03,24,5.4
+SynthOxy,BTH-9652,Ward C,463,15.5,2026-09-28,19,4.32
+CardioSynth,BTH-4888,Outpatients,173,45.0,2026-11-04,56,0.9
+NeuroBlock-Z,BTH-3011,Ward A,20,120.0,2026-12-09,91,2.78
+PainRelief-X (Synthetic),BTH-4417,Outpatients,144,5.0,2026-11-02,54,87.37
+ImmunoBoost-Alpha,BTH-3304,Operating Room 2,236,85.0,2026-09-30,21,9.09
+CardioSynth,BTH-3482,Outpatients,89,45.0,2026-09-25,16,0.42
+PainRelief-X (Synthetic),BTH-5889,Ward A,178,5.0,2026-10-13,34,5.9
+ImmunoBoost-Alpha,BTH-2635,Operating Room 1,243,85.0,2026-10-13,34,0.75
+ImmunoBoost-Alpha,BTH-2875,Operating Room 1,417,85.0,2026-09-16,7,4.05
+SynthOxy,BTH-3745,Ward B,173,15.5,2026-09-25,16,2.16
+ImmunoBoost-Alpha,BTH-4208,Operating Room 2,118,85.0,2027-07-09,303,4.05
+NeuroBlock-Z,BTH-6799,Operating Room 1,395,120.0,2026-09-29,20,16.17
+CardioSynth,BTH-6537,Ward C,274,45.0,2026-09-15,6,7.99
+NeuroBlock-Z,BTH-2565,Main Pharmacy,444,120.0,2026-10-19,40,2.28
+ImmunoBoost-Alpha,BTH-1906,Ward B,390,85.0,2026-10-11,32,9.3
+NeuroBlock-Z,BTH-3195,Ward B,160,120.0,2026-09-16,7,9.37
+PainRelief-X (Synthetic),BTH-4996,Ward C,135,5.0,2026-10-17,38,9.73
+CardioSynth,BTH-5229,Outpatients,263,45.0,2027-04-02,205,9.83
+SynthOxy,BTH-1551,Outpatients,259,15.5,2026-11-01,53,69.26
+CardioSynth,BTH-1727,Operating Room 2,267,45.0,2026-10-26,47,12.97
+CardioSynth,BTH-2196,Operating Room 1,177,45.0,2027-01-15,128,6.7
+PainRelief-X (Synthetic),BTH-1635,Ward C,204,5.0,2026-10-05,26,9.69
+NeuroBlock-Z,BTH-7240,Main Pharmacy,399,120.0,2026-10-23,44,8.22
+SynthOxy,BTH-3228,Main Pharmacy,464,15.5,2026-09-11,2,4.5
+CardioSynth,BTH-2041,Ward A,278,45.0,2026-10-19,40,1.69
+ImmunoBoost-Alpha,BTH-2539,Main Pharmacy,188,85.0,2026-10-12,33,4.11
+ImmunoBoost-Alpha,BTH-3197,Main Pharmacy,408,85.0,2026-12-24,106,4.61
+NeuroBlock-Z,BTH-2344,Ward A,321,120.0,2026-10-10,31,2.01
+ImmunoBoost-Alpha,BTH-3400,Outpatients,154,85.0,2027-01-04,117,5.39
+CardioSynth,BTH-1626,Ward C,418,45.0,2026-10-08,29,0.17
+CardioSynth,BTH-2188,Outpatients,404,45.0,2027-01-26,139,2.31
+NeuroBlock-Z,BTH-4836,Ward A,21,120.0,2026-09-27,18,3.44
+ImmunoBoost-Alpha,BTH-4332,Outpatients,350,85.0,2026-10-30,51,6.55
+CardioSynth,BTH-4688,Ward C,191,45.0,2026-10-12,33,7.35
+NeuroBlock-Z,BTH-5665,Operating Room 1,347,120.0,2026-11-05,57,10.09
+ImmunoBoost-Alpha,BTH-6203,Main Pharmacy,475,85.0,2026-09-28,19,0.73
+NeuroBlock-Z,BTH-5468,Main Pharmacy,186,120.0,2027-01-06,119,8.53
+PainRelief-X (Synthetic),BTH-9957,Ward A,170,5.0,2027-05-09,242,5.23
+CardioSynth,BTH-8903,Main Pharmacy,327,45.0,2026-09-18,9,6.12
+ImmunoBoost-Alpha,BTH-1179,Operating Room 1,293,85.0,2026-10-28,49,9.36
+PainRelief-X (Synthetic),BTH-4273,Outpatients,286,5.0,2027-06-24,288,71.54
+NeuroBlock-Z,BTH-8517,Ward A,243,120.0,2026-10-15,36,4.27
+CardioSynth,BTH-8024,Outpatients,165,45.0,2027-03-17,189,1.76
+NeuroBlock-Z,BTH-6497,Operating Room 2,483,120.0,2026-09-17,8,11.41
+PainRelief-X (Synthetic),BTH-7280,Outpatients,457,5.0,2026-10-07,28,45.78
+SynthOxy,BTH-9286,Operating Room 1,247,15.5,2026-10-09,30,8.12
+NeuroBlock-Z,BTH-8976,Outpatients,99,120.0,2026-10-18,39,9.36
+ImmunoBoost-Alpha,BTH-6870,Operating Room 2,198,85.0,2026-12-07,89,5.2
+SynthOxy,BTH-4621,Operating Room 2,419,15.5,2026-09-24,15,1.13
+NeuroBlock-Z,BTH-2391,Main Pharmacy,247,120.0,2027-02-23,167,7.91
+SynthOxy,BTH-3630,Operating Room 2,218,15.5,2026-10-08,29,4.06
+CardioSynth,BTH-9207,Outpatients,353,45.0,2026-10-02,23,3.23
+SynthOxy,BTH-2155,Ward A,313,15.5,2026-11-08,60,6.64
+ImmunoBoost-Alpha,BTH-9025,Ward B,104,85.0,2027-06-05,269,2.04
+ImmunoBoost-Alpha,BTH-1006,Ward C,250,85.0,2026-10-27,48,0.0
+NeuroBlock-Z,BTH-7427,Outpatients,266,120.0,2026-11-03,55,1.64
+SynthOxy,BTH-5888,Ward A,290,15.5,2026-10-02,23,3.43
+NeuroBlock-Z,BTH-5071,Ward A,254,120.0,2026-09-20,11,3.07
+NeuroBlock-Z,BTH-4399,Outpatients,312,120.0,2027-05-18,251,0.66
+ImmunoBoost-Alpha,BTH-8539,Ward A,202,85.0,2026-10-09,30,1.63
+NeuroBlock-Z,BTH-2261,Ward B,366,120.0,2027-05-27,260,5.3
+CardioSynth,BTH-7256,Ward B,320,45.0,2026-09-17,8,6.43
+SynthOxy,BTH-2353,Operating Room 1,84,15.5,2027-06-22,286,7.64
+ImmunoBoost-Alpha,BTH-2821,Ward B,52,85.0,2026-10-17,38,4.68
+SynthOxy,BTH-1836,Outpatients,298,15.5,2026-10-21,42,26.69
+SynthOxy,BTH-2640,Main Pharmacy,335,15.5,2027-01-17,130,2.15
+SynthOxy,BTH-8644,Outpatients,395,15.5,2026-10-08,29,88.79
+SynthOxy,BTH-2603,Ward A,304,15.5,2026-09-21,12,3.61
+SynthOxy,BTH-5236,Operating Room 1,480,15.5,2026-10-09,30,5.87
+ImmunoBoost-Alpha,BTH-6818,Operating Room 1,174,85.0,2026-09-13,4,9.8
+CardioSynth,BTH-8914,Ward B,430,45.0,2026-09-15,6,7.62
+CardioSynth,BTH-1829,Operating Room 1,278,45.0,2027-06-01,265,14.5
+PainRelief-X (Synthetic),BTH-2146,Ward B,428,5.0,2026-10-06,27,2.44
+SynthOxy,BTH-9207,Ward C,447,15.5,2027-05-22,255,2.91
+PainRelief-X (Synthetic),BTH-3314,Operating Room 1,343,5.0,2026-10-19,40,0.97
+CardioSynth,BTH-2944,Main Pharmacy,174,45.0,2026-09-14,5,9.38
+CardioSynth,BTH-3651,Operating Room 2,384,45.0,2027-06-11,275,7.57
+CardioSynth,BTH-6255,Ward B,238,45.0,2026-09-28,19,2.28
+PainRelief-X (Synthetic),BTH-1284,Ward B,367,5.0,2026-10-13,34,2.83
+CardioSynth,BTH-3334,Ward C,225,45.0,2026-09-16,7,2.61
+ImmunoBoost-Alpha,BTH-3531,Operating Room 2,277,85.0,2027-07-16,310,7.21
+SynthOxy,BTH-6300,Ward A,208,15.5,2026-11-07,59,7.51
+SynthOxy,BTH-9531,Operating Room 1,247,15.5,2026-10-04,25,3.35
+ImmunoBoost-Alpha,BTH-9741,Ward A,487,85.0,2026-10-28,49,5.65
+CardioSynth,BTH-3985,Ward C,55,45.0,2026-09-17,8,3.33
+CardioSynth,BTH-4351,Outpatients,70,45.0,2026-12-07,89,1.39
+SynthOxy,BTH-5549,Ward C,178,15.5,2027-04-05,208,8.84
+SynthOxy,BTH-1865,Ward B,436,15.5,2026-11-08,60,3.75
+NeuroBlock-Z,BTH-6278,Main Pharmacy,39,120.0,2026-10-15,36,8.02
+PainRelief-X (Synthetic),BTH-2328,Ward B,469,5.0,2027-03-04,176,6.23
+PainRelief-X (Synthetic),BTH-6195,Operating Room 1,495,5.0,2026-11-06,58,4.42
+ImmunoBoost-Alpha,BTH-6569,Ward A,435,85.0,2026-10-21,42,0.47
+NeuroBlock-Z,BTH-1361,Ward C,320,120.0,2026-11-05,57,2.96
+ImmunoBoost-Alpha,BTH-1804,Ward C,82,85.0,2027-04-15,218,8.41
+NeuroBlock-Z,BTH-2806,Outpatients,127,120.0,2026-09-12,3,2.29
+ImmunoBoost-Alpha,BTH-5669,Operating Room 1,392,85.0,2026-12-29,111,5.92
+ImmunoBoost-Alpha,BTH-6072,Operating Room 1,73,85.0,2027-03-31,203,8.38
+ImmunoBoost-Alpha,BTH-2800,Main Pharmacy,181,85.0,2026-09-24,15,3.98
+CardioSynth,BTH-1736,Ward C,293,45.0,2026-10-25,46,1.11
+SynthOxy,BTH-3424,Ward C,348,15.5,2026-10-04,25,3.51
+NeuroBlock-Z,BTH-4281,Main Pharmacy,34,120.0,2026-10-18,39,3.82
+CardioSynth,BTH-1552,Main Pharmacy,318,45.0,2026-10-26,47,2.16
+NeuroBlock-Z,BTH-6200,Outpatients,409,120.0,2026-10-10,31,1.83
+PainRelief-X (Synthetic),BTH-3674,Operating Room 2,187,5.0,2026-10-26,47,5.95
+ImmunoBoost-Alpha,BTH-9289,Ward B,295,85.0,2026-10-30,51,5.89
+CardioSynth,BTH-6564,Operating Room 1,65,45.0,2026-09-18,9,10.85
+ImmunoBoost-Alpha,BTH-9715,Outpatients,280,85.0,2026-11-07,59,1.87
+SynthOxy,BTH-6228,Ward B,343,15.5,2026-09-14,5,4.88
+NeuroBlock-Z,BTH-7689,Ward B,312,120.0,2027-06-18,282,1.83
+PainRelief-X (Synthetic),BTH-7072,Operating Room 1,34,5.0,2026-10-06,27,4.52
+ImmunoBoost-Alpha,BTH-5584,Ward B,464,85.0,2027-03-16,188,8.38
+CardioSynth,BTH-9944,Ward A,240,45.0,2026-10-17,38,9.29
+SynthOxy,BTH-9943,Main Pharmacy,262,15.5,2026-10-20,41,2.35
+ImmunoBoost-Alpha,BTH-9459,Ward B,53,85.0,2027-01-28,141,3.37
+NeuroBlock-Z,BTH-4969,Main Pharmacy,13,120.0,2026-11-08,60,8.62
+PainRelief-X (Synthetic),BTH-2852,Operating Room 1,189,5.0,2027-04-02,205,4.5
+CardioSynth,BTH-7101,Operating Room 1,214,45.0,2027-04-25,228,10.26
+PainRelief-X (Synthetic),BTH-5566,Outpatients,150,5.0,2026-09-17,8,20.47
+SynthOxy,BTH-4614,Main Pharmacy,130,15.5,2026-09-22,13,0.54
+PainRelief-X (Synthetic),BTH-4234,Outpatients,390,5.0,2027-01-13,126,76.66
+ImmunoBoost-Alpha,BTH-3023,Outpatients,27,85.0,2027-06-24,288,3.57
+CardioSynth,BTH-8509,Operating Room 1,477,45.0,2026-09-21,12,7.92
+ImmunoBoost-Alpha,BTH-4299,Main Pharmacy,118,85.0,2027-05-18,251,2.53
+ImmunoBoost-Alpha,BTH-2682,Main Pharmacy,112,85.0,2027-01-17,130,7.48
+ImmunoBoost-Alpha,BTH-2208,Operating Room 1,420,85.0,2026-12-09,91,5.76
+ImmunoBoost-Alpha,BTH-2661,Ward B,336,85.0,2026-09-25,16,5.1
+SynthOxy,BTH-6921,Ward B,229,15.5,2026-11-05,57,8.47
+ImmunoBoost-Alpha,BTH-1355,Outpatients,340,85.0,2027-06-19,283,3.41
+SynthOxy,BTH-2490,Ward C,498,15.5,2026-09-11,2,9.8
+CardioSynth,BTH-1853,Outpatients,233,45.0,2026-09-30,21,0.33
+NeuroBlock-Z,BTH-2715,Operating Room 1,203,120.0,2026-10-28,49,14.81
+PainRelief-X (Synthetic),BTH-1297,Operating Room 1,177,5.0,2026-10-01,22,0.36
+NeuroBlock-Z,BTH-5320,Main Pharmacy,432,120.0,2027-06-02,266,8.15
+ImmunoBoost-Alpha,BTH-2721,Operating Room 1,423,85.0,2026-10-15,36,6.34
+SynthOxy,BTH-8422,Ward B,292,15.5,2026-10-02,23,2.8
+PainRelief-X (Synthetic),BTH-1783,Outpatients,51,5.0,2026-10-02,23,35.46
+ImmunoBoost-Alpha,BTH-5685,Operating Room 1,371,85.0,2026-09-28,19,7.29
+NeuroBlock-Z,BTH-9897,Operating Room 1,159,120.0,2026-09-26,17,10.07
+ImmunoBoost-Alpha,BTH-5763,Operating Room 1,141,85.0,2026-09-18,9,1.89
+CardioSynth,BTH-3102,Operating Room 2,268,45.0,2026-09-26,17,5.44
+NeuroBlock-Z,BTH-9554,Main Pharmacy,66,120.0,2026-09-23,14,1.08
+ImmunoBoost-Alpha,BTH-6048,Main Pharmacy,206,85.0,2026-09-28,19,8.54
+SynthOxy,BTH-3112,Ward C,181,15.5,2026-10-03,24,2.48
+NeuroBlock-Z,BTH-5821,Operating Room 2,211,120.0,2026-10-01,22,5.42
+ImmunoBoost-Alpha,BTH-4635,Ward C,121,85.0,2026-10-20,41,5.34
+CardioSynth,BTH-1222,Operating Room 1,19,45.0,2026-11-05,57,12.55
+NeuroBlock-Z,BTH-9930,Operating Room 1,161,120.0,2026-10-27,48,8.07
+ImmunoBoost-Alpha,BTH-5064,Ward C,226,85.0,2027-01-28,141,7.0
+CardioSynth,BTH-7536,Ward C,261,45.0,2027-06-28,292,2.81
+ImmunoBoost-Alpha,BTH-5423,Ward B,233,85.0,2026-09-17,8,5.01
+ImmunoBoost-Alpha,BTH-8766,Ward A,303,85.0,2026-10-23,44,2.3
+NeuroBlock-Z,BTH-7347,Operating Room 2,166,120.0,2026-10-21,42,5.92
+SynthOxy,BTH-8611,Main Pharmacy,102,15.5,2026-11-08,60,2.14
+CardioSynth,BTH-3785,Operating Room 2,232,45.0,2026-09-27,18,9.99
+ImmunoBoost-Alpha,BTH-3849,Main Pharmacy,456,85.0,2026-09-11,2,1.48
+SynthOxy,BTH-7635,Ward C,495,15.5,2027-02-20,164,7.23
+CardioSynth,BTH-3219,Main Pharmacy,76,45.0,2026-09-12,3,8.25
+PainRelief-X (Synthetic),BTH-5672,Operating Room 2,380,5.0,2026-09-10,1,3.27
+ImmunoBoost-Alpha,BTH-6552,Ward B,147,85.0,2026-11-06,58,0.26
+NeuroBlock-Z,BTH-6042,Ward B,396,120.0,2027-02-08,152,5.44
+NeuroBlock-Z,BTH-3856,Outpatients,326,120.0,2026-09-10,1,9.12
+NeuroBlock-Z,BTH-2420,Main Pharmacy,452,120.0,2027-01-06,119,0.24
+PainRelief-X (Synthetic),BTH-6001,Ward C,93,5.0,2027-01-30,143,3.27
+CardioSynth,BTH-8514,Main Pharmacy,168,45.0,2026-09-21,12,6.18
+CardioSynth,BTH-7418,Ward C,469,45.0,2026-09-23,14,7.8
+SynthOxy,BTH-8980,Ward B,57,15.5,2026-10-14,35,8.07
+CardioSynth,BTH-9790,Main Pharmacy,340,45.0,2026-10-03,24,0.49
+ImmunoBoost-Alpha,BTH-2445,Ward B,122,85.0,2026-11-03,55,9.34
+SynthOxy,BTH-4436,Outpatients,446,15.5,2026-10-12,33,69.49
+CardioSynth,BTH-4466,Outpatients,146,45.0,2026-10-18,39,7.58
+NeuroBlock-Z,BTH-1983,Ward B,459,120.0,2026-10-11,32,0.79
+ImmunoBoost-Alpha,BTH-8543,Outpatients,473,85.0,2027-05-18,251,1.19
+ImmunoBoost-Alpha,BTH-3513,Main Pharmacy,377,85.0,2027-02-05,149,7.34
+NeuroBlock-Z,BTH-5511,Ward B,386,120.0,2026-09-10,1,2.51
+ImmunoBoost-Alpha,BTH-4005,Outpatients,312,85.0,2027-03-05,177,6.76
+ImmunoBoost-Alpha,BTH-6737,Main Pharmacy,162,85.0,2026-09-17,8,8.97
+NeuroBlock-Z,BTH-8187,Outpatients,438,120.0,2026-09-12,3,3.92
+NeuroBlock-Z,BTH-7625,Ward A,359,120.0,2026-09-15,6,5.62
+CardioSynth,BTH-7926,Outpatients,134,45.0,2027-02-06,150,4.5
+NeuroBlock-Z,BTH-3804,Ward A,168,120.0,2026-09-13,4,3.11
+PainRelief-X (Synthetic),BTH-2022,Outpatients,38,5.0,2026-09-13,4,88.77
+CardioSynth,BTH-3454,Ward A,22,45.0,2027-03-05,177,2.82
+CardioSynth,BTH-2351,Ward B,293,45.0,2026-10-03,24,8.24
+CardioSynth,BTH-7915,Ward B,121,45.0,2026-10-05,26,3.05
+SynthOxy,BTH-4088,Main Pharmacy,145,15.5,2026-10-20,41,5.14
+NeuroBlock-Z,BTH-2710,Ward C,323,120.0,2026-10-30,51,7.49
+ImmunoBoost-Alpha,BTH-7558,Main Pharmacy,53,85.0,2027-04-22,225,8.96
+PainRelief-X (Synthetic),BTH-3011,Ward C,48,5.0,2026-10-15,36,7.49
+ImmunoBoost-Alpha,BTH-4066,Operating Room 2,39,85.0,2027-03-17,189,2.67
+CardioSynth,BTH-6161,Ward B,374,45.0,2026-11-02,54,4.54
+SynthOxy,BTH-8171,Ward A,25,15.5,2026-10-25,46,2.44
+ImmunoBoost-Alpha,BTH-4209,Operating Room 2,122,85.0,2026-10-01,22,9.8
+NeuroBlock-Z,BTH-5786,Main Pharmacy,365,120.0,2027-08-24,349,1.06
+ImmunoBoost-Alpha,BTH-1501,Outpatients,74,85.0,2026-09-11,2,9.55
+SynthOxy,BTH-5939,Ward C,21,15.5,2026-10-16,37,9.27
+CardioSynth,BTH-8067,Main Pharmacy,111,45.0,2027-08-25,350,4.73
+CardioSynth,BTH-3322,Ward B,159,45.0,2026-09-19,10,1.44
+CardioSynth,BTH-2648,Operating Room 2,473,45.0,2027-05-21,254,19.48
+NeuroBlock-Z,BTH-6177,Operating Room 1,64,120.0,2027-01-08,121,12.09
+CardioSynth,BTH-5909,Ward B,182,45.0,2027-02-07,151,3.96
+ImmunoBoost-Alpha,BTH-4503,Operating Room 2,317,85.0,2026-09-13,4,2.54
+NeuroBlock-Z,BTH-3331,Main Pharmacy,149,120.0,2026-09-12,3,7.55
+PainRelief-X (Synthetic),BTH-9953,Operating Room 2,276,5.0,2027-07-26,320,1.25
+ImmunoBoost-Alpha,BTH-4801,Ward A,284,85.0,2027-01-06,119,4.93
+ImmunoBoost-Alpha,BTH-4606,Operating Room 1,413,85.0,2026-10-22,43,0.14
+CardioSynth,BTH-9515,Operating Room 1,319,45.0,2026-09-19,10,6.46
+CardioSynth,BTH-3645,Operating Room 1,421,45.0,2026-10-23,44,19.08
+NeuroBlock-Z,BTH-5373,Ward A,127,120.0,2026-09-20,11,3.95
+PainRelief-X (Synthetic),BTH-5149,Ward A,74,5.0,2026-09-28,19,2.29
+PainRelief-X (Synthetic),BTH-8583,Operating Room 1,231,5.0,2026-10-28,49,0.04
+ImmunoBoost-Alpha,BTH-6030,Main Pharmacy,240,85.0,2026-10-07,28,0.22
+ImmunoBoost-Alpha,BTH-8317,Main Pharmacy,183,85.0,2026-09-12,3,3.35
+ImmunoBoost-Alpha,BTH-8781,Operating Room 2,271,85.0,2026-10-22,43,7.22
+PainRelief-X (Synthetic),BTH-8409,Operating Room 1,230,5.0,2026-09-29,20,0.24
+SynthOxy,BTH-4814,Operating Room 2,467,15.5,2026-10-28,49,8.72
+CardioSynth,BTH-1891,Ward A,486,45.0,2026-09-26,17,8.8
+PainRelief-X (Synthetic),BTH-7729,Ward C,265,5.0,2026-12-26,108,9.33
+PainRelief-X (Synthetic),BTH-7610,Ward C,265,5.0,2026-09-11,2,4.27
+CardioSynth,BTH-8901,Main Pharmacy,259,45.0,2026-10-30,51,4.1
+NeuroBlock-Z,BTH-6208,Ward C,240,120.0,2027-01-23,136,4.95
+CardioSynth,BTH-1350,Ward C,55,45.0,2026-11-01,53,3.7
+NeuroBlock-Z,BTH-4341,Ward A,194,120.0,2026-10-05,26,8.21
+CardioSynth,BTH-1505,Outpatients,449,45.0,2026-09-13,4,6.41
+ImmunoBoost-Alpha,BTH-5603,Operating Room 1,58,85.0,2026-11-01,53,2.54
+CardioSynth,BTH-4126,Ward C,307,45.0,2026-09-23,14,3.0
+SynthOxy,BTH-1875,Main Pharmacy,313,15.5,2026-10-03,24,4.05
+CardioSynth,BTH-4960,Ward A,495,45.0,2026-09-12,3,6.64
+SynthOxy,BTH-1554,Operating Room 2,141,15.5,2027-07-04,298,7.29
+NeuroBlock-Z,BTH-9945,Ward B,93,120.0,2027-05-03,236,2.77
+NeuroBlock-Z,BTH-6255,Operating Room 2,325,120.0,2026-10-06,27,19.55
+NeuroBlock-Z,BTH-6677,Ward C,435,120.0,2026-09-16,7,1.84
+SynthOxy,BTH-4421,Operating Room 2,280,15.5,2026-09-11,2,6.21
+ImmunoBoost-Alpha,BTH-5985,Ward A,196,85.0,2026-09-28,19,6.1
+PainRelief-X (Synthetic),BTH-4629,Ward C,229,5.0,2026-09-27,18,5.23
+CardioSynth,BTH-7192,Ward C,41,45.0,2026-11-01,53,0.98
+NeuroBlock-Z,BTH-8334,Outpatients,269,120.0,2026-10-17,38,9.08
+CardioSynth,BTH-4295,Ward C,256,45.0,2026-09-28,19,9.66
+CardioSynth,BTH-3359,Ward A,290,45.0,2027-04-20,223,5.16
+ImmunoBoost-Alpha,BTH-1971,Ward B,175,85.0,2026-09-16,7,1.26
+PainRelief-X (Synthetic),BTH-9705,Ward A,228,5.0,2026-09-16,7,8.46
+ImmunoBoost-Alpha,BTH-7527,Ward C,152,85.0,2026-10-19,40,9.05
+SynthOxy,BTH-8523,Ward B,184,15.5,2026-12-26,108,9.06
+NeuroBlock-Z,BTH-2748,Main Pharmacy,255,120.0,2026-10-22,43,9.42
